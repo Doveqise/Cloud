@@ -1,0 +1,24 @@
+[2019.08.04 19:09:50] Launched version: 1007014, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2019.08.04 19:09:50] Executable dir: D:/Web-Disk/Application/Telegram/, name: Telegram.exe
+[2019.08.04 19:09:50] Initial working dir: D:/Web-Disk/Application/Telegram/
+[2019.08.04 19:09:50] Working dir: D:/Web-Disk/Application/Telegram/
+[2019.08.04 19:09:50] Command line: D:\Web-Disk\Application\Telegram\Telegram.exe
+[2019.08.04 19:09:50] Executable path before check: D:/Web-Disk/Application/Telegram/Telegram.exe
+[2019.08.04 19:09:50] Logs started
+[2019.08.04 19:09:50] Connecting local socket to Global\250c3aec2995a8999081c01a439867aa-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2019.08.04 19:09:50] This is the only instance of Telegram, starting server and app...
+[2019.08.04 19:09:50] Moved logging from 'D:/Web-Disk/Application/Telegram/log_start0.txt' to 'D:/Web-Disk/Application/Telegram/log.txt'!
+[2019.08.04 19:09:50] Primary screen DPI: 96
+[2019.08.04 19:09:51] Checking...
+[2019.08.04 19:09:51] Checking C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\.
+[2019.08.04 19:09:51] Checking C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\..
+[2019.08.04 19:09:52] OpenAL Logging Level: (not set)
+[2019.08.04 19:09:52] Audio Playback Devices: OpenAL Soft
+[2019.08.04 19:09:52] Audio Playback Default Device: OpenAL Soft
+[2019.08.04 19:09:52] Audio Capture Devices: 
+[2019.08.04 19:09:52] Audio Capture Default Device: 
+[2019.08.04 19:09:52] Audio Error: Could not open capture device!
+[2019.08.04 19:09:52] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2019.08.04 19:09:52] Update Info: MTP is unavailable.
+[2019.08.04 19:09:55] Lang Error: Unexpected tag (key 'lng_call_box_status_group:count')
+[2019.08.04 19:09:55] Lang Error: Unknown tag (key 'lng_manage_discussion_group_warning:visible')

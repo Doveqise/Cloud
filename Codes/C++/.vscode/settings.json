@@ -1,0 +1,35 @@
+{
+    "editor.fontSize": 19,
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "vscode-icons",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.associations": {
+        "*.css": "css",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "utility": "cpp",
+        "limits": "cpp"
+    },
+    "git.confirmSync": false,
+    "workbench.activityBar.visible": true,
+    "window.zoomLevel": -2,
+    "typescript.check.npmIsInstalled": false,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "editor.cursorWidth": 2,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "terminal.integrated.fontSize": 16,
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.editor.enablePreview": false,
+    "npm.enableScriptExplorer": true,
+    "editor.tabCompletion": "on",
+    "sync.gist": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
