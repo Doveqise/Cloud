@@ -23,7 +23,7 @@ signed main()
     for (int i = 1; i <= n; i++)
     {
         scanf("%d%d", &nd[i].l, &nd[i].r);
-        nd[i].val = nd[i].r - nd[i].l + 1;
+        nd[i].val = nd[i].r - nd[i].l ;
         add(nd[i].r, nd[i].val);
         m = max(m, nd[i].r);
     }

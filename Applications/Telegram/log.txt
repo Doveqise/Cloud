@@ -1,24 +1,161 @@
-[2019.08.04 19:09:50] Launched version: 1007014, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
-[2019.08.04 19:09:50] Executable dir: D:/Web-Disk/Application/Telegram/, name: Telegram.exe
-[2019.08.04 19:09:50] Initial working dir: D:/Web-Disk/Application/Telegram/
-[2019.08.04 19:09:50] Working dir: D:/Web-Disk/Application/Telegram/
-[2019.08.04 19:09:50] Command line: D:\Web-Disk\Application\Telegram\Telegram.exe
-[2019.08.04 19:09:50] Executable path before check: D:/Web-Disk/Application/Telegram/Telegram.exe
-[2019.08.04 19:09:50] Logs started
-[2019.08.04 19:09:50] Connecting local socket to Global\250c3aec2995a8999081c01a439867aa-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
-[2019.08.04 19:09:50] This is the only instance of Telegram, starting server and app...
-[2019.08.04 19:09:50] Moved logging from 'D:/Web-Disk/Application/Telegram/log_start0.txt' to 'D:/Web-Disk/Application/Telegram/log.txt'!
-[2019.08.04 19:09:50] Primary screen DPI: 96
-[2019.08.04 19:09:51] Checking...
-[2019.08.04 19:09:51] Checking C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\.
-[2019.08.04 19:09:51] Checking C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\..
-[2019.08.04 19:09:52] OpenAL Logging Level: (not set)
-[2019.08.04 19:09:52] Audio Playback Devices: OpenAL Soft
-[2019.08.04 19:09:52] Audio Playback Default Device: OpenAL Soft
-[2019.08.04 19:09:52] Audio Capture Devices: 
-[2019.08.04 19:09:52] Audio Capture Default Device: 
-[2019.08.04 19:09:52] Audio Error: Could not open capture device!
-[2019.08.04 19:09:52] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
-[2019.08.04 19:09:52] Update Info: MTP is unavailable.
-[2019.08.04 19:09:55] Lang Error: Unexpected tag (key 'lng_call_box_status_group:count')
-[2019.08.04 19:09:55] Lang Error: Unknown tag (key 'lng_manage_discussion_group_warning:visible')
+[2019.10.02 11:17:26] Launched version: 1007014, install beta: [FALSE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2019.10.02 11:17:26] Executable dir: D:/Git/Cloud/Applications/Telegram/, name: Telegram.exe
+[2019.10.02 11:17:26] Initial working dir: D:/Git/Cloud/Applications/Telegram/
+[2019.10.02 11:17:26] Working dir: D:/Git/Cloud/Applications/Telegram/
+[2019.10.02 11:17:26] Command line: D:\Git\Cloud\Applications\Telegram\Telegram.exe
+[2019.10.02 11:17:26] Executable path before check: D:/Git/Cloud/Applications/Telegram/Telegram.exe
+[2019.10.02 11:17:26] Logs started
+[2019.10.02 11:17:26] Connecting local socket to Global\3e95084a6f96bff7bcb25e1a6ec03ea9-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2019.10.02 11:17:26] This is the only instance of Telegram, starting server and app...
+[2019.10.02 11:17:26] Moved logging from 'D:/Git/Cloud/Applications/Telegram/log_start0.txt' to 'D:/Git/Cloud/Applications/Telegram/log.txt'!
+[2019.10.02 11:17:26] Primary screen DPI: 96
+[2019.10.02 11:17:27] App Info: reading settings...
+[2019.10.02 11:17:27] App Info: reading encrypted settings...
+[2019.10.02 11:17:27] Lang Info: Loaded cached, keys: 2398
+[2019.10.02 11:17:27] Lang Error: Unexpected tag (key 'lng_call_box_status_group:count')
+[2019.10.02 11:17:27] Lang Error: Unknown tag (key 'lng_manage_discussion_group_warning:visible')
+[2019.10.02 11:17:27] OpenAL Logging Level: (not set)
+[2019.10.02 11:17:27] Audio Playback Devices: OpenAL Soft
+[2019.10.02 11:17:27] Audio Playback Default Device: OpenAL Soft
+[2019.10.02 11:17:27] Audio Capture Devices: OpenAL Soft on 楹﹀厠椋庨樀鍒(Realtek High Definition Audio);OpenAL Soft on 绔嬩綋澹版贩闊(Realtek High Definition Audio)
+[2019.10.02 11:17:27] Audio Capture Default Device: OpenAL Soft on 楹﹀厠椋庨樀鍒(Realtek High Definition Audio)
+[2019.10.02 11:17:27] App Info: reading map...
+[2019.10.02 11:17:27] App Info: reading encrypted map...
+[2019.10.02 11:17:27] App Info: could not read encrypted user settings...
+[2019.10.02 11:17:27] App Info: writing encrypted user settings...
+[2019.10.02 11:17:27] App Info: reading encrypted mtp data...
+[2019.10.02 11:17:27] MTP Info: read keys, current: 1, to destroy: 0
+[2019.10.02 11:17:27] Map read time: 8
+[2019.10.02 11:17:27] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2019.10.02 11:17:28] Update Info: MTP is unavailable.
+[2019.10.02 11:17:29] MTP Info: destroying stale keys, count: 1
+[2019.10.02 11:17:29] Update Error: could not get current version 2
+[2019.10.02 11:17:47] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:17:47] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:17:47] Config Error: Bad data size 0 required 344
+[2019.10.02 11:17:57] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:17:57] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:17:58] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:18:11] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:18:35] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:18:43] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:18:43] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:18:43] Config Error: Bad data size 0 required 344
+[2019.10.02 11:18:53] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:18:53] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:18:53] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:01] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:01] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:01] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:09] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:09] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:09] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:09] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:19:15] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:15] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:15] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:15] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:19:22] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:22] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:33] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:33] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:33] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:39] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:19:41] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:41] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:41] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:45] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:45] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:45] Config Error: Bad data size 0 required 344
+[2019.10.02 11:19:54] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:19:55] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:19:55] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:19:55] Config Error: Bad data size 0 required 344
+[2019.10.02 11:20:01] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:20:01] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:20:01] Config Error: Bad data size 0 required 344
+[2019.10.02 11:20:13] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:20:25] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:20:25] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:20:25] Config Error: Bad data size 0 required 344
+[2019.10.02 11:20:35] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:20:35] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:20:35] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:20:35] Config Error: Bad data size 0 required 344
+[2019.10.02 11:20:51] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:20:59] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:20:59] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:21:15] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:21:28] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:21:44] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:21:55] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:21:57] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:22:03] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:22:33] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:22:43] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:22:43] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:23:22] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:23:39] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:23:47] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:24:11] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:24:56] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:25:12] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:25:21] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:25:26] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:25:29] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:25:44] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:26:06] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:26:09] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:26:40] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:26:41] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:26:42] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:26:58] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:27:13] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:27:13] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:27:13] Config Error: Bad data size 0 required 344
+[2019.10.02 11:27:24] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:27:32] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:27:54] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:28:03] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:03] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:03] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:11] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:11] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:11] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:18] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:18] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:18] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:28] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:28] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:28] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:36] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:36] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:36] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:45] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:45] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:45] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:52] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:52] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:52] Config Error: Bad data size 0 required 344
+[2019.10.02 11:28:58] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:28:58] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:28:58] Config Error: Bad data size 0 required 344
+[2019.10.02 11:29:00] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:29:08] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:29:08] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:29:08] Config Error: Bad data size 0 required 344
+[2019.10.02 11:29:15] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:29:15] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:29:15] Config Error: Bad data size 0 required 344
+[2019.10.02 11:29:22] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:29:24] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:29:24] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:29:24] Config Error: Bad data size 0 required 344
+[2019.10.02 11:29:38] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:29:57] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:30:01] TCP Error: proxy (15) - Proxy connection closed prematurely
+[2019.10.02 11:30:17] Config Error: Failed to get response, error: Connection closed (2)
+[2019.10.02 11:30:17] Config Error: Failed to parse dns response JSON, error: illegal value
+[2019.10.02 11:30:17] Config Error: Bad data size 0 required 344
+[2019.10.02 11:30:20] TCP Error: proxy (15) - Proxy connection closed prematurely
