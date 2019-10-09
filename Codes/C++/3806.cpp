@@ -98,6 +98,6 @@ signed main()
     findroot(1,0);
     solve(root);
     for(int i=1;i<=m;i++)
-        puts(test[i]?"AYE":"NAY");
+        puts(tst[i]?"AYE":"NAY");
     return 0;
 }

@@ -10,7 +10,10 @@
         "algorithm": "cpp",
         "deque": "cpp",
         "utility": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "valarray": "cpp"
     },
     "git.confirmSync": false,
     "workbench.activityBar.visible": true,
